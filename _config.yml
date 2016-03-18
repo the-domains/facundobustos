@@ -1,6 +1,6 @@
 name: facundobustos
 favicon: null
-layout_spectrum: 0.24868
+layout_spectrum: 0.9245
 typography_spectrum: 0.37649
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#262626'
     - '#cecece'
   brandStrength: 0.6997721469961107
-  lightness: 0.9250148215796798
+  lightness: 0.6875
   saturation: 0.625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
