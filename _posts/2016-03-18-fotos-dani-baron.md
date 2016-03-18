@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Fotos Dani Baron\_"
-datePublished: '2016-03-18T17:03:09.848Z'
-dateModified: '2016-03-18T17:02:55.042Z'
+description: Music Portraits
+datePublished: '2016-03-18T17:03:59.536Z'
+dateModified: '2016-03-18T17:03:52.238Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-fotos-dani-baron.md
