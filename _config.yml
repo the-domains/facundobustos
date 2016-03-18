@@ -1,7 +1,7 @@
 name: facundobustos
 favicon: null
 layout_spectrum: 0.4549394026398659
-typography_spectrum: 0.3881158654112369
+typography_spectrum: 0.37649
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6997721469961107
   lightness: 0.9250148215796798
   saturation: 0.9975292936433107
-  rhythmicContrast: 0.6856861172709614
+  rhythmicContrast: 0.75
 purpose: []
